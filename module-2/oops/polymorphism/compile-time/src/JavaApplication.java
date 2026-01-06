@@ -29,5 +29,11 @@ class JavaApplication {
 
         Student s3 = new Student("Rani",'F',"21/01/2019","Rani@gmail.com",9989585851l);
         s3.displayStudentDetails();
+
+
+        // Internal constructor chaining:
+        // When a child class object is created,
+        // the parent class constructor is called automatically first.
+        Son son = new Son();
     }
 }
