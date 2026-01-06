@@ -13,6 +13,7 @@ class Son extends Father {
     //Variance--->Covariant return type.
     //we can change return type of method by using Covariant.
     //Only applicable for Non-Primitive Data Types.
+    //While overriding method should have equal or higher accessibility.
     @Override
     public ScientificCalculator buyCalculator(){
         return new ScientificCalculator();
