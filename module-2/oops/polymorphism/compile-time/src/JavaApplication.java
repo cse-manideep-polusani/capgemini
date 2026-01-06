@@ -20,5 +20,14 @@ class JavaApplication {
         Instagram user4=new Instagram();
         user4.login(9989585851l,1456);
 
+        //Constructor overloading(act like service provider for end user)
+        Student s1 = new Student("Rani",'F',"21/01/2019");
+        s1.displayStudentDetails();
+
+        Student s2 = new Student("Rani",'F',"21/01/2019","Rani@gmail.com");
+        s2.displayStudentDetails();
+
+        Student s3 = new Student("Rani",'F',"21/01/2019","Rani@gmail.com",9989585851l);
+        s3.displayStudentDetails();
     }
 }
