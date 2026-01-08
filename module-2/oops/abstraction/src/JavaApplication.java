@@ -18,5 +18,35 @@ public class JavaApplication {
         softwareDeveloper.task();
         softwareDeveloper.logout();
         softwareDeveloper.exit();
+
+
+
+        // Interface variables are by default:
+        // public static final
+        // So they can be accessed using interface name
+        System.out.println(SuperInterface.c);
+
+        // ❌ Not allowed because 'c' is final (constant)
+        // SuperInterface.c = 'J';
+
+        // Static methods of interface are called
+        // using interface name only
+        SuperInterface.sm();
+
+        //Static methods cant be inherited from interface to sub type.So we cant call by using sub class.
+        //SubConcreteClass.sm();
+
+        System.out.println();
+
+        // Interface variable can also be accessed
+        // using implementing class name (not recommended but allowed)
+        System.out.println(SubConcreteClass.c);
+
+        // Creating object of implementing class
+        SubConcreteClass subConcreteClass = new SubConcreteClass();
+
+        // Calling non-static method implemented from interface
+        subConcreteClass.nsm();
+
     }
 }
