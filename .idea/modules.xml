@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/module-2/oops/entity-relationship/entity-relationship.iml" filepath="$PROJECT_DIR$/module-2/oops/entity-relationship/entity-relationship.iml" />
       <module fileurl="file://$PROJECT_DIR$/module-2/oops/entity-relationship/inheritance/final/final.iml" filepath="$PROJECT_DIR$/module-2/oops/entity-relationship/inheritance/final/final.iml" />
       <module fileurl="file://$PROJECT_DIR$/module-2/oops/entity-relationship/inheritance/hierarchical/hierarchical.iml" filepath="$PROJECT_DIR$/module-2/oops/entity-relationship/inheritance/hierarchical/hierarchical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-2/typecasting/homogenous/homogenous.iml" filepath="$PROJECT_DIR$/module-2/typecasting/homogenous/homogenous.iml" />
       <module fileurl="file://$PROJECT_DIR$/module-2/oops/entity-relationship/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/module-2/oops/entity-relationship/inheritance/inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/module-2/oops/entity-relationship/inheritance/instanceof/instanceof.iml" filepath="$PROJECT_DIR$/module-2/oops/entity-relationship/inheritance/instanceof/instanceof.iml" />
       <module fileurl="file://$PROJECT_DIR$/module-2/oops/abstraction/interface/interface.iml" filepath="$PROJECT_DIR$/module-2/oops/abstraction/interface/interface.iml" />
@@ -22,10 +23,12 @@
       <module fileurl="file://$PROJECT_DIR$/module-2/oops/entity-relationship/inheritance/multi-level/multi-level.iml" filepath="$PROJECT_DIR$/module-2/oops/entity-relationship/inheritance/multi-level/multi-level.iml" />
       <module fileurl="file://$PROJECT_DIR$/module-2/oops/oops.iml" filepath="$PROJECT_DIR$/module-2/oops/oops.iml" />
       <module fileurl="file://$PROJECT_DIR$/module-2/oops/polymorphism/polymorphism.iml" filepath="$PROJECT_DIR$/module-2/oops/polymorphism/polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-2/typecasting/homogenous/primitive-primitive/primitive-primitive.iml" filepath="$PROJECT_DIR$/module-2/typecasting/homogenous/primitive-primitive/primitive-primitive.iml" />
       <module fileurl="file://$PROJECT_DIR$/module-2/oops/polymorphism/run-time/run-time.iml" filepath="$PROJECT_DIR$/module-2/oops/polymorphism/run-time/run-time.iml" />
       <module fileurl="file://$PROJECT_DIR$/module-2/oops/entity-relationship/inheritance/single-level-inheritance/single-level-inheritance.iml" filepath="$PROJECT_DIR$/module-2/oops/entity-relationship/inheritance/single-level-inheritance/single-level-inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/module-2/class-and-object/static-and-non-static-members/static-and-non-static-members.iml" filepath="$PROJECT_DIR$/module-2/class-and-object/static-and-non-static-members/static-and-non-static-members.iml" />
       <module fileurl="file://$PROJECT_DIR$/module-2/oops/entity-relationship/inheritance/Super/super.iml" filepath="$PROJECT_DIR$/module-2/oops/entity-relationship/inheritance/Super/super.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-2/typecasting/typecasting.iml" filepath="$PROJECT_DIR$/module-2/typecasting/typecasting.iml" />
     </modules>
   </component>
 </project>
