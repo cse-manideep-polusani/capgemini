@@ -7,6 +7,7 @@ class Employee {
     static String state;
     static String country;
 
+
     public static void entry(){
         System.out.println("Employee can enter into the Campus");
     }

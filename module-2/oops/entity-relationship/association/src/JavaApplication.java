@@ -9,6 +9,9 @@ class JavaApplication {
         car.displayCarDetails();
         car.getEngine().displayEngineInfo();
 
+        System.out.println(engine.getCc());
+        System.out.println(car.getEngine().getCc());
+
         //object injection(because of manual creation of mediaPlayer object)
         //Dependency Injection - Setter Method
         car.setMediaPlayer(mediaPlayer1);
